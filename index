@@ -1,0 +1,6 @@
+function first()
+{
+  return "Smith";
+}
+
+console.log(first());
