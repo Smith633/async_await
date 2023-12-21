@@ -4,3 +4,11 @@ function first()
 }
 
 console.log(first());
+
+
+function second()
+{
+  console.log("Pritesh");
+}
+
+second();
